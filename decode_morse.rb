@@ -2,7 +2,7 @@
 
 def decode_morse_code(morse_code, morse_code_table)
   morse_code_words = split_morse_code(morse_code)
-  decoded = build_decoded_message(morse_code_words, morse_code_table)
+  build_decoded_message(morse_code_words, morse_code_table)
   decoded
 end
 

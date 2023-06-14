@@ -14,7 +14,7 @@ end
 def build_decoded_message(morse_code_words, morse_code_table)
   decoded = ''
   morse_code_words.each do |morse_word|
-    morse_chars = morse_word.split(' ')
+    morse_chars = morse_word.split
     morse_chars.each do |morse_char|
       letter = lookup_character(morse_char, morse_code_table)
       decoded += letter unless letter.nil?

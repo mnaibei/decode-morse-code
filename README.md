@@ -11,7 +11,7 @@
   - [Prerequisites](#prerequisites)
   - [Run tests](#run-tests)
 - [👥 Authors](#authors)
-<!-- - [🔭 Future Features](#future-features) -->
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -114,13 +114,11 @@ rubocop -A
 
 <!-- FUTURE FEATURES -->
 
-<!-- ## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Enhance the sql commands using query plan.
-- [ ] Add more tables💯.
-- [ ] Add other relationships to the tables.
+- [ ] More complex ruby commands.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
